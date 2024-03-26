@@ -1,5 +1,5 @@
 license_key: YOUR_LICENSE_KEY
-display_name: nru-logs-lab
+override_hostname_short: nru-logs-lab
 log:
   file: '/var/log/newrelic-infra/newrelic-infra.log'
   level: info

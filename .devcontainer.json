@@ -1,0 +1,12 @@
+{
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu-22.04",
+    "customizations": {
+      "codespaces": {
+        "openFiles": [
+          "README.md",
+          "newrelic-infra.yml"
+        ]
+      }
+    },
+    "postAttachCommand": "./setup.sh"
+}

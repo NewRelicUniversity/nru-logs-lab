@@ -29,7 +29,7 @@ sudo wget -O /var/db/newrelic-infra/newrelic-integrations/logging/parsers.conf h
 
 echo Cleaning up
 rm fluent-bit_2.0.8_ubuntu-jammy_amd64.deb
-rm newrelic-infra_linux_1.48.4_amd64.tar.gz
+rm newrelic-infra_linux_1.51.0_amd64.tar.gz
 rm -rf newrelic-infra/
 
 sudo scripts/postinst.sh

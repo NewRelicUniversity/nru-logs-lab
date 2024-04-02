@@ -1,4 +1,3 @@
-
 # _Lab:_ Using New Relic APM to troubleshoot a database performance problem
 
 **Objective:** Use the features of New Relic APM, such as the _Databases_ page and transaction traces, to identify the cause of slow database performance.
@@ -35,7 +34,9 @@ In this lab, you practiced using features of New Relic APM, such as the _Databas
 - [APM Databases page documentation](https://docs.newrelic.com/docs/apm/apm-ui-pages/monitoring/databases-page-view-operations-throughput-response-time/)
 - [APM Transactions page documentation](https://docs.newrelic.com/docs/apm/apm-ui-pages/monitoring/transactions-page-find-specific-performance-problems/)
 - [Tutorial: Troubleshoot slow application performance](https://docs.newrelic.com/docs/tutorial-improve-app-performance/root-causes/)
+
 ---
+
 # _Lab:_ Using the New Relic Logs UI
 
 **Objective:** Practice using the New Relic Logs UI to search and analyze log data.
@@ -64,7 +65,9 @@ How could you save this view to quickly recall it later? How could you share thi
 
 ## Step 6
 How could you create an alert condition based on this log search?
+
 ---
+
 # _Lab:_ Searching logs based on custom attributes
 
 **Objective:** Find logs containing custom attributes recorded with automatic logs in context.
@@ -94,7 +97,9 @@ In these labs, you practiced using the New Relic Logs UI to search and analyze g
 ## Additional resources
 - [New Relic Logs UI documentation](https://docs.newrelic.com/docs/logs/ui-data/use-logs-ui/)
 - [APM Logs in Context documentation](https://docs.newrelic.com/docs/logs/logs-context/get-started-logs-context/)
+
 ---
+
 # _Lab:_ Troubleshooting Log Forwarding
 
 **Objective:** Troubleshoot common log forwarding problems.
